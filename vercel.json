@@ -5,7 +5,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://YOUR_BACKEND_API_URL/api/:path*"
+      "destination": "https://mexmovies-backend.onrender.com/api/:path*"
     },
     {
       "source": "/(.*)",
